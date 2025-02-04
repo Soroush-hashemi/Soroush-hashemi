@@ -1,4 +1,4 @@
-<h1 align="center">Hi There soroush</h1>
+<h1 align="center">Hi There I'm soroush</h1>
 <h3 align="center">I'm a software engineer</h3>
 
 - 🌱 I’m currently learning **asp.net core api and web deep**
