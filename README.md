@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate **project with my skill**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/Soroush-hashemi](https://github.com/Soroush-hashemi)
-
 - 💬 Ask me about **C# , asp.net core web and api**
 
 - 📫 How to reach me **soro.ush84sh@gmail.com**
