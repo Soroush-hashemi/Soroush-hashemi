@@ -1,9 +1,9 @@
 <h1 align="center">Hi There soroush</h1>
 <h3 align="center">I'm a software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soroush-hashemi" alt="soroush-hashemi" /></a> </p>
+- 🌱 I’m currently learning **asp.net core api and web deep**
 
-- 🌱 I’m looking to collaborate **project with my skill**
+- 👯 I’m looking to collaborate **project with my skill**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Soroush-hashemi](https://github.com/Soroush-hashemi)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/soroush-hashemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush-hashemi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
