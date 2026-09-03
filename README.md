@@ -68,16 +68,8 @@
 
 ### 🚀 Current Focus
 
-I'm currently focused on becoming a stronger **software engineer**, not just a programmer.
+I'm currently focused on becoming a stronger **software engineer**.
 
-My current focus is on:
-
-* Designing systems from requirements
-* Making architectural decisions
-* Understanding trade-offs
-* Writing maintainable code
-* Testing and reviewing software
-* Building real-world .NET applications
 
 ### 📫 Connect with me
 
