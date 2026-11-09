@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Soroush Hashemi | .NET Software Engineer</title>
+    
+    <meta name="description" content="Soroush Hashemi is a .NET Software Engineer focused on C#, ASP.NET Core, backend engineering, and maintainable software architecture. Explore selected experience and get in touch.">
+    <meta name="keywords" content="Soroush Hashemi, .NET Software Engineer, C# Developer, ASP.NET Core, Backend Engineer, Software Architecture, Clean Architecture">
+    <meta name="author" content="Soroush Hashemi">
+
+    <link rel="me" href="https://www.linkedin.com/in/soroush-hashemi/">
+    <link rel="me" href="https://github.com/Soroush-hashemi">
+    
+    <link rel="canonical" href="https://soroush-eng.ir/">
+    <meta name="yandex-verification" content="976ec7fdf1b29d01" />
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Soroush Hashemi | .NET Software Engineer">
+    <meta property="og:description" content="Backend engineering with C# and .NET. Explore my experience, engineering interests, and get in touch.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://soroush-eng.ir/">
+    <meta property="og:image" content="https://soroush-hashemi.github.io/Soroush-hashemi/Avatar.png">
+    <meta property="og:locale" content="en_US">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Soroush Hashemi | .NET Software Engineer">
+    <meta name="twitter:description" content="Backend engineering with C# and .NET. Explore my experience and get in touch.">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta name="color-scheme" content="dark">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Soroush Hashemi",
+      "url": "https://soroush-eng.ir/",
+      "jobTitle": ".NET Software Engineer",
+      "image": "https://soroush-eng.ir/Avatar.png",
+      "sameAs": [
+        "https://github.com/Soroush-hashemi",
+        "https://www.linkedin.com/in/soroush-hashemi/"
+      ],
+      "knowsAbout": [
+        "C#", ".NET", "ASP.NET Core", "Backend Engineering",
+        "Clean Architecture", "Software Architecture", "SQL Server"
+      ]
+    }
+    </script>
+    <link rel="icon" href="img/icon.png" type="image/png">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+        :root {
+            --primary: #6366f1;
+            --secondary: #8b5cf6;
+            --background: #0f172a;
+            --surface: #1e293b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--background);
+            color: #f8fafc;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: var(--surface);
+            border-radius: 16px;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .avatar {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 3px solid var(--primary);
+            margin-bottom: 1.5rem;
+            transition: transform 0.3s ease;
+        }
+
+        .avatar:hover {
+            transform: scale(1.05);
+        }
+
+        .avatar {
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            border: 3px solid var(--primary);
+            margin-bottom: 1.5rem;
+            transition: transform 0.3s ease;
+            object-fit: cover;
+        }
+
+
+        .avatar:hover {
+            transform: scale(1.05);
+        }
+
+        .social-links {
+            margin-top: 1rem;
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+        }
+
+        .social-link {
+            color: var(--primary);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .social-link:hover {
+            color: #a78bfa;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            margin: 1.5rem 0;
+            justify-content: center;
+        }
+
+        .skill-tag {
+            background: rgba(99, 102, 241, 0.1);
+            color: var(--primary);
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            border: 1px solid var(--primary);
+            font-size: 0.9rem;
+        }
+
+        .section {
+            margin: 2.5rem 0;
+            padding: 1.5rem;
+            background: rgba(30, 41, 59, 0.5);
+            border-radius: 12px;
+        }
+
+        .experience-grid {
+            display: grid;
+            gap: 2rem;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        }
+
+        .experience-item {
+            padding: 1.5rem;
+            border-left: 3px solid var(--primary);
+        }
+
+        .project-link {
+            display: inline-block;
+            margin-top: 1rem;
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .education {
+            margin-left: 30px;
+            margin-top: 2rem;
+        }
+
+        .education-content {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-align: left;
+        }
+
+        .UniversitAvatar {
+            margin-top: 5px;
+            margin-right: 5px;
+            width: 40px;
+            height: 50px;
+        }
+
+        .UniversitAvatar {
+            width: 40px;
+            height: 50px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 1rem;
+                padding: 1.5rem;
+            }
+
+            .skills {
+                gap: 0.6rem;
+            }
+
+            .skill-tag {
+                padding: 0.4rem 0.8rem;
+            }
+        }
+
+        /* Conversion-focused contact section */
+        .contact-cta {
+            position: relative;
+            isolation: isolate;
+            overflow: hidden;
+            margin: 3rem 0 1rem;
+            padding: clamp(2rem, 5vw, 4rem);
+            text-align: center;
+            border: 1px solid rgba(139, 92, 246, .34);
+            border-radius: 24px;
+            background:
+                radial-gradient(ellipse at 12% 0%, rgba(99, 102, 241, .22), transparent 48%),
+                radial-gradient(ellipse at 92% 100%, rgba(139, 92, 246, .19), transparent 42%),
+                linear-gradient(135deg, rgba(30, 41, 59, .98), rgba(15, 23, 42, .98));
+            box-shadow: 0 22px 70px rgba(0, 0, 0, .22), inset 0 1px 0 rgba(255,255,255,.06);
+        }
+
+        .contact-cta::before {
+            content: "";
+            position: absolute;
+            z-index: -1;
+            width: 260px;
+            height: 260px;
+            top: -190px;
+            left: calc(50% - 130px);
+            border-radius: 50%;
+            background: rgba(99, 102, 241, .22);
+            filter: blur(55px);
+        }
+
+        .cta-eyebrow {
+            display: inline-flex;
+            align-items: center;
+            gap: .55rem;
+            margin-bottom: 1.15rem;
+            padding: .42rem .8rem;
+            color: #c4b5fd;
+            background: rgba(139, 92, 246, .1);
+            border: 1px solid rgba(167, 139, 250, .25);
+            border-radius: 999px;
+            font-size: .78rem;
+            font-weight: 600;
+            letter-spacing: .08em;
+            text-transform: uppercase;
+        }
+
+        .cta-status-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #34d399;
+            box-shadow: 0 0 12px rgba(52, 211, 153, .8);
+        }
+
+        .contact-cta h2 {
+            max-width: 720px;
+            margin: 0 auto .9rem;
+            color: #f8fafc;
+            font-size: clamp(1.8rem, 4.2vw, 3rem);
+            line-height: 1.15;
+            letter-spacing: -.045em;
+        }
+
+        .contact-cta h2 span {
+            color: #a78bfa;
+        }
+
+        .cta-description {
+            max-width: 590px;
+            margin: 0 auto;
+            color: #cbd5e1;
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+
+        .cta-actions {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: .85rem;
+            margin-top: 2rem;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            min-height: 52px;
+            align-items: center;
+            justify-content: center;
+            gap: .65rem;
+            padding: .85rem 1.35rem;
+            border: 1px solid transparent;
+            border-radius: 13px;
+            font: inherit;
+            font-size: .95rem;
+            font-weight: 650;
+            text-decoration: none;
+            transition: transform .2s ease, box-shadow .2s ease, background .2s ease, border-color .2s ease;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+        }
+
+        .cta-button:focus-visible {
+            outline: 3px solid #c4b5fd;
+            outline-offset: 4px;
+        }
+
+        .cta-button-primary {
+            color: #fff;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            box-shadow: 0 10px 28px rgba(99, 102, 241, .28);
+        }
+
+        .cta-button-primary:hover {
+            box-shadow: 0 14px 34px rgba(99, 102, 241, .4);
+        }
+
+        .cta-button-secondary {
+            color: #e2e8f0;
+            background: rgba(255,255,255,.035);
+            border-color: rgba(203, 213, 225, .2);
+        }
+
+        .cta-button-secondary:hover {
+            background: rgba(255,255,255,.08);
+            border-color: rgba(196, 181, 253, .5);
+        }
+
+        .cta-email {
+            margin-top: 1.2rem;
+            color: #94a3b8;
+            font-size: .85rem;
+        }
+
+        .cta-email a {
+            color: #c4b5fd;
+            text-decoration: none;
+            text-underline-offset: 4px;
+        }
+
+        .cta-email a:hover {
+            text-decoration: underline;
+        }
+
+        .mobile-contact-bar {
+            display: none;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: .65rem;
+                padding: 1.1rem;
+                border-radius: 18px;
+            }
+
+            .contact-cta {
+                margin-top: 2rem;
+                padding: 2rem 1.15rem;
+                border-radius: 19px;
+            }
+
+            .contact-cta h2 {
+                font-size: clamp(1.75rem, 8vw, 2.35rem);
+            }
+
+            .cta-description {
+                font-size: .92rem;
+            }
+
+            .cta-actions {
+                display: grid;
+                grid-template-columns: 1fr;
+                gap: .7rem;
+                margin-top: 1.5rem;
+            }
+
+            .cta-button {
+                width: 100%;
+                min-height: 54px;
+            }
+
+            .cta-email {
+                font-size: .78rem;
+                overflow-wrap: anywhere;
+            }
+
+            body {
+                padding-bottom: 78px;
+            }
+
+            .mobile-contact-bar {
+                position: fixed;
+                z-index: 50;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                display: flex;
+                padding: .7rem 1rem calc(.7rem + env(safe-area-inset-bottom));
+                background: rgba(15, 23, 42, .9);
+                border-top: 1px solid rgba(148, 163, 184, .18);
+                backdrop-filter: blur(18px);
+                -webkit-backdrop-filter: blur(18px);
+            }
+
+            .mobile-contact-bar a {
+                display: flex;
+                width: 100%;
+                min-height: 48px;
+                align-items: center;
+                justify-content: center;
+                gap: .55rem;
+                color: #fff;
+                background: linear-gradient(110deg, #6366f1, #8b5cf6);
+                border-radius: 12px;
+                text-decoration: none;
+                font-weight: 700;
+                box-shadow: 0 7px 22px rgba(99, 102, 241, .25);
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .cta-button {
+                transition: none;
+            }
+            .cta-button:hover {
+                transform: none;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="Avatar.png" alt="Soroush Hashemi | سروش هاشمی" class="avatar">
+            <h1>Soroush Hashemi</h1>
+            <p>.NET Software Engineer & Computer Engineering Student</p>
+            <div class="social-links">
+                <a href="https://github.com/Soroush-hashemi" class="social-link" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path
+                            d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+                        </path>
+                    </svg>
+                    GitHub
+                </a>
+                <a href="https://www.linkedin.com/in/soroush-hashemi" class="social-link" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                        <rect x="2" y="9" width="4" height="12"></rect>
+                        <circle cx="4" cy="4" r="2"></circle>
+                    </svg>
+                    LinkedIn
+                </a>
+            </div>
+        </header>
+
+        <div class="section">
+            <h2>Technical Expertise</h2>
+            <div class="skills">
+                <span class="skill-tag">C#</span>
+                <span class="skill-tag">ASP.NET Core</span>
+                <span class="skill-tag">Clean Architecture</span>
+                <span class="skill-tag">REST APIs</span>
+                <span class="skill-tag">SQL Server</span>
+                <span class="skill-tag">MongoDB</span>
+                <span class="skill-tag">Entity Framework</span>
+                <span class="skill-tag">Docker</span>
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">Unit Testing</span>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Professional Experience</h2>
+            <div class="experience-grid">
+                <div class="experience-item">
+                    <h3>Khosheyezarin</h3>
+                    <p class="timeframe">Feb 2024 - Apr 2024</p>
+                    <ul>
+                        <li>Developed a news publishing platform using ASP.NET Core 7, Entity Framework Core, and SQL
+                            Server</li>
+                        <li>Implemented CMS features including article publishing, content editing, and admin user
+                            management</li>
+                        <li>Applied Clean Architecture principles to ensure maintainability, testability, and long-term
+                            scalability</li>
+                    </ul>
+                    <a href="https://khosheyezarin.ir" class="project-link">khosheyezarin.ir</a>
+                </div>
+
+                <div class="experience-item">
+                    <h3>LaptopParhizgar</h3>
+                    <p class="timeframe">Jul 2022 - Jul 2023</p>
+                    <ul>
+                        <li>Built and maintained a laptop e-commerce platform using ASP.NET Core, EF Core, and SQL
+                            Server</li>
+                        <li>Implemented features like user registration, product management, order tracking, and
+                            checkout simulation</li>
+                        <li>Migrated codebase from layered architecture to Clean Architecture for better modularity and
+                            maintainability</li>
+                        <li>Revamped monolithic codebase by decoupling UI, Application, and Infrastructure layers,
+                            enabling independent scaling and reducing cross-team dependencies</li>
+                    </ul>
+                    <a href="https://laptopparhizgar.ir" class="project-link">laptopparhizgar.ir</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="education">
+            <h2>Education</h2>
+            <div class="education-content">
+                <img src="img/UniversitAvatar.png" alt="National University of Skill" class="UniversitAvatar">
+                <div class="education-text">
+                    <p>Iran's National University of Skill (NUS)</p>
+                    <p>BSc Computer Engineering</p>
+                </div>
+            </div>
+        </div>
+
+        <section class="contact-cta" id="contact" aria-labelledby="contact-title">
+            <div class="cta-eyebrow"><span class="cta-status-dot" aria-hidden="true"></span> Open to meaningful conversations</div>
+            <h2 id="contact-title">Have an idea worth <span>engineering?</span></h2>
+            <p class="cta-description">
+                Whether you’re building a product, improving a backend, or exploring a technical collaboration,
+                let’s talk about the problem and find a solid way forward.
+            </p>
+            <div class="cta-actions">
+                <a class="cta-button cta-button-primary"
+                   href="mailto:soro.ush84sh@gmail.com?subject=Let%27s%20talk%20about%20a%20project"
+                   aria-label="Email Soroush to discuss a project">
+                    Let’s talk about your project
+                    <span aria-hidden="true">↗</span>
+                </a>
+                <a class="cta-button cta-button-secondary"
+                   href="https://www.linkedin.com/in/soroush-hashemi/"
+                   target="_blank" rel="noopener noreferrer"
+                   aria-label="Connect with Soroush on LinkedIn">
+                    Connect on LinkedIn
+                    <span aria-hidden="true">↗</span>
+                </a>
+            </div>
+            <p class="cta-email">Prefer email? <a href="mailto:soro.ush84sh@gmail.com">soro.ush84sh@gmail.com</a></p>
+        </section>
+
+    </div>
+    <div class="mobile-contact-bar">
+        <a href="mailto:soro.ush84sh@gmail.com?subject=Let%27s%20talk%20about%20a%20project">Let’s talk <span aria-hidden="true">↗</span></a>
+    </div>
+</body>
+
+</html>
+
