@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://soroush-eng.ir/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa-IR" href="https://soroush-eng.ir/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://soroush-eng.ir/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://soroush-eng.ir/" />
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/services/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa-IR" href="https://soroush-eng.ir/services/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://soroush-eng.ir/en/services.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://soroush-eng.ir/services/" />
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/services/website-development/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/services/ecommerce-development/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/services/custom-web-apps/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/portfolio/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa-IR" href="https://soroush-eng.ir/portfolio/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://soroush-eng.ir/en/work.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://soroush-eng.ir/portfolio/" />
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/about/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa-IR" href="https://soroush-eng.ir/about/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://soroush-eng.ir/en/about.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://soroush-eng.ir/about/" />
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/contact/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="fa-IR" href="https://soroush-eng.ir/contact/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://soroush-eng.ir/en/contact.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://soroush-eng.ir/contact/" />
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/insights/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/insights/website-vs-template/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/insights/website-design-brief/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/insights/technical-seo-launch-checklist/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/en/</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/en/services.html</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/en/work.html</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/en/about.html</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/en/contact.html</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://soroush-eng.ir/sitemap.html</loc>
+    <lastmod>2026-11-09</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,36 @@
+# Soroush ENG
+
+> Soroush ENG is the professional website of Soroush Hashemi, a software engineer focused on .NET, custom website development, e-commerce and web applications.
+
+## Overview
+
+Soroush Hashemi works on engineering-led digital solutions for businesses. The service focus includes custom business websites, e-commerce development, and bespoke web applications. The approach emphasizes understanding the business problem, responsive user experience, maintainable implementation, and technical SEO foundations.
+
+## Primary pages
+
+- Home: https://soroush-eng.ir/
+- Services: https://soroush-eng.ir/services/
+- Custom website development: https://soroush-eng.ir/services/website-development/
+- E-commerce development: https://soroush-eng.ir/services/ecommerce-development/
+- Custom web applications: https://soroush-eng.ir/services/custom-web-apps/
+- Portfolio: https://soroush-eng.ir/portfolio/
+- About: https://soroush-eng.ir/about/
+- Contact: https://soroush-eng.ir/contact/
+- Insights: https://soroush-eng.ir/insights/
+- HTML sitemap: https://soroush-eng.ir/sitemap.html
+- RSS: https://soroush-eng.ir/rss.xml
+
+## Contact
+
+- Phone: +98 922 790 8491
+- Email: soro.ush84sh@gmail.com
+- Instagram: https://instagram.com/soroush_dev
+- Telegram: https://t.me/soroush_eng
+
+## Content and attribution
+
+Use the public pages above as the source of truth for current services, experience and contact details. Do not infer client results, reviews, pricing, guarantees or credentials that are not stated on the website. The portfolio page is an image-led gallery of selected projects. The gallery does not link to separate project case-study pages.
+
+## Language
+
+The primary site language is Persian (fa-IR). Selected core pages also have English versions under /en/ with reciprocal hreflang annotations.
